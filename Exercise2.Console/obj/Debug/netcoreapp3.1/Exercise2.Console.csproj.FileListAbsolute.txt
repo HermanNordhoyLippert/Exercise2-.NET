@@ -1,0 +1,11 @@
+D:\Visual Studio\Exercise2\Exercise2.Console\obj\Debug\netcoreapp3.1\Exercise2.Console.csprojAssemblyReference.cache
+D:\Visual Studio\Exercise2\Exercise2.Console\obj\Debug\netcoreapp3.1\Exercise2.Console.AssemblyInfoInputs.cache
+D:\Visual Studio\Exercise2\Exercise2.Console\obj\Debug\netcoreapp3.1\Exercise2.Console.AssemblyInfo.cs
+D:\Visual Studio\Exercise2\Exercise2.Console\bin\Debug\netcoreapp3.1\Exercise2.Console.exe
+D:\Visual Studio\Exercise2\Exercise2.Console\bin\Debug\netcoreapp3.1\Exercise2.Console.deps.json
+D:\Visual Studio\Exercise2\Exercise2.Console\bin\Debug\netcoreapp3.1\Exercise2.Console.runtimeconfig.json
+D:\Visual Studio\Exercise2\Exercise2.Console\bin\Debug\netcoreapp3.1\Exercise2.Console.runtimeconfig.dev.json
+D:\Visual Studio\Exercise2\Exercise2.Console\bin\Debug\netcoreapp3.1\Exercise2.Console.dll
+D:\Visual Studio\Exercise2\Exercise2.Console\bin\Debug\netcoreapp3.1\Exercise2.Console.pdb
+D:\Visual Studio\Exercise2\Exercise2.Console\obj\Debug\netcoreapp3.1\Exercise2.Console.dll
+D:\Visual Studio\Exercise2\Exercise2.Console\obj\Debug\netcoreapp3.1\Exercise2.Console.pdb
